@@ -1,4 +1,6 @@
 // Classe abstrata (superclasse)
+// editei: Joao
+
 abstract class Aposta {
     String usuario;
     double valor;
